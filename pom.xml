@@ -65,7 +65,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-                <mainClass>com.example.demo.helloworld</mainClass>
+                <mainClass>demo.Helloworld</mainClass>
             </configuration>
 			</plugin>
 		</plugins>
